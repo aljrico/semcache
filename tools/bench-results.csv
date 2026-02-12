@@ -1,0 +1,6 @@
+"test","n","time_ms","ops_sec"
+"exact_put",1000,1934,517
+"exact_get_hit",1000,192,5208
+"exact_get_miss",1000,58,17241
+"semantic_put",1000,2515,398
+"semantic_get",1000,492,2033

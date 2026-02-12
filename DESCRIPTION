@@ -1,0 +1,23 @@
+Package: semcache
+Title: Local Semantic Cache for LLM Calls
+Version: 0.1.0
+Authors@R: person("Alejandro", "Jimenez Rico", role = c("aut", "cre"),
+    email = "aljrico@gmail.com")
+Description: Local-first, persistent cache for large language model calls
+    that supports exact caching via deterministic hashing and optional semantic
+    caching via embedding similarity. Every cache entry is stored on disk in a
+    readable, inspectable format, creating an automatic audit log. Semantic
+    reuse is opt-in and conservative by default.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports: digest
+Suggests:
+    jsonlite,
+    testthat (>= 3.0.0),
+    usearchlite,
+    toonlite,
+    bench,
+    withr
+Config/testthat/edition: 3
