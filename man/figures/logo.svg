@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .bg { fill: #D75868; stroke: #9A3F4A; stroke-width: 18; stroke-linejoin: round; }
+      .inner { fill: none; stroke: #FFFFFF; stroke-width: 12; stroke-linejoin: round; }
+      .fg { fill: #FFFFFF; }
+      .fgs { fill: none; stroke: #FFFFFF; stroke-width: 14; stroke-linecap: round; stroke-linejoin: round; }
+      .fgs2 { fill: none; stroke: #FFFFFF; stroke-width: 10; stroke-linecap: round; stroke-linejoin: round; }
+    </style>
+  </defs>
+  <path class="bg" d="M 429.21,356.00 L 256.00,456.00 L 82.79,356.00 L 82.79,156.00 L 256.00,56.00 L 429.21,156.00 Z"/>
+  <path class="inner" d="M 408.42,344.00 L 256.00,432.00 L 103.58,344.00 L 103.58,168.00 L 256.00,80.00 L 408.42,168.00 Z"/>
+  <path class="fgs2" d="M 150 170 C 180 140, 210 200, 240 170 S 300 140, 330 170 S 390 200, 418 170"/>
+  <ellipse class="fg" cx="270" cy="264" rx="110" ry="34"/>
+  <path class="fg" d="M 160 264 L 160 344 C 160 365, 210 382, 270 382 C 330 382, 380 365, 380 344 L 380 264 Z"/>
+  <ellipse class="fgs2" cx="270" cy="304" rx="110" ry="34"/>
+  <ellipse class="fgs2" cx="270" cy="344" rx="110" ry="34"/>
+  <circle class="fg" cx="386" cy="360" r="44"/>
+  <path d="M 368 360 L 382 374 L 406 346" class="fgs" />
+</svg>

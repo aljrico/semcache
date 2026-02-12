@@ -1,4 +1,4 @@
-# semcache
+# semcache <img src="man/figures/logo.svg" align="right" height="139" alt="semcache logo" />
 
 **Local, persistent, auditable cache for LLM calls** — with optional
 semantic matching.
