@@ -1,20 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <defs>
-    <style>
-      .bg { fill: #D75868; stroke: #9A3F4A; stroke-width: 18; stroke-linejoin: round; }
-      .inner { fill: none; stroke: #FFFFFF; stroke-width: 12; stroke-linejoin: round; }
-      .fg { fill: #FFFFFF; }
-      .fgs { fill: none; stroke: #FFFFFF; stroke-width: 14; stroke-linecap: round; stroke-linejoin: round; }
-      .fgs2 { fill: none; stroke: #FFFFFF; stroke-width: 10; stroke-linecap: round; stroke-linejoin: round; }
-    </style>
-  </defs>
-  <path class="bg" d="M 429.21,356.00 L 256.00,456.00 L 82.79,356.00 L 82.79,156.00 L 256.00,56.00 L 429.21,156.00 Z"/>
-  <path class="inner" d="M 408.42,344.00 L 256.00,432.00 L 103.58,344.00 L 103.58,168.00 L 256.00,80.00 L 408.42,168.00 Z"/>
-  <path class="fgs2" d="M 150 170 C 180 140, 210 200, 240 170 S 300 140, 330 170 S 390 200, 418 170"/>
-  <ellipse class="fg" cx="270" cy="264" rx="110" ry="34"/>
-  <path class="fg" d="M 160 264 L 160 344 C 160 365, 210 382, 270 382 C 330 382, 380 365, 380 344 L 380 264 Z"/>
-  <ellipse class="fgs2" cx="270" cy="304" rx="110" ry="34"/>
-  <ellipse class="fgs2" cx="270" cy="344" rx="110" ry="34"/>
-  <circle class="fg" cx="386" cy="360" r="44"/>
-  <path d="M 368 360 L 382 374 L 406 346" class="fgs" />
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="115.47" viewBox="0 0 100 115.47">
+  <path d="M50,0 L93.3,25 L93.3,75 L50,100 L6.7,75 L6.7,25 Z" fill="#d32f2f" stroke="white" stroke-width="3"/>
+  <g fill="white">
+    <path d="M50,20 C65,20 78,24 78,30 C78,36 65,40 50,40 C35,40 22,36 22,30 C22,24 35,20 50,20 Z"/>
+    <path d="M22,45 C22,51 35,55 50,55 C65,55 78,51 78,45 L78,55 C78,61 65,65 50,65 C35,65 22,61 22,55 Z"/>
+    <path d="M22,70 C22,76 35,80 50,80 C65,80 78,76 78,70 L78,80 C78,86 65,90 50,90 C35,90 22,86 22,80 Z"/>
+    <path d="M20,15 Q35,5 50,15 Q65,25 80,15" fill="none" stroke="white" stroke-width="3"/>
+    <circle cx="80" cy="80" r="15" fill="#d32f2f" stroke="white" stroke-width="3"/>
+    <path d="M72,80 L78,86 L88,74" fill="none" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
 </svg>
