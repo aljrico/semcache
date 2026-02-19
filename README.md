@@ -1,5 +1,9 @@
 # semcache <img src="man/figures/logo.svg" align="right" height="139" alt="semcache logo" />
 
+<!-- badges: start -->
+[![CRAN status](https://www.r-pkg.org/badges/version/semcache)](https://cran.r-project.org/package=semcache)
+<!-- badges: end -->
+
 **Local, persistent, auditable cache for LLM calls** — with optional
 semantic matching.
 
