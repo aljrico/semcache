@@ -2,6 +2,7 @@
 
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/semcache)](https://cran.r-project.org/package=semcache)
+[![R-CMD-check](https://github.com/aljrico/semcache/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/aljrico/semcache/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 **Local, persistent, auditable cache for LLM calls** — with optional
